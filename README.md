@@ -40,7 +40,8 @@ The project is structured as follows:
 - `LDA Code` - This Folder contains LDA Job Mining code for two Major.
 - `LDA_Job_Search_Data` - This code will analyze and Mine Data Science  Job
 - `LDA_Job_Search_SF` - This code will analyze and Mine ' Software Engineer'  Job
-- 
+
+** The Data extraced on folder `Dataset ` have been extracted on 30-05-2023
 ## Contributing
 
 Contributions to this project are welcome. If you would like to contribute, please fork the project and submit a pull request with your changes.
