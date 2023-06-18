@@ -38,7 +38,7 @@ The project is structured as follows:
 - `scrabweb.ipynp` - This code is same as 'scrab.ipnyp' but it more accurate but it take long time oon processing. It access the job one be one.
 - `Data set` - This Folder contains job posted extracted from web scrabing for two Major Data Science and Software Engineer.
 - `LDA Code` - This Folder contains LDA Job Mining code for two Major.
-- `LDA_Job_Search_Data` - This code will analyze and Mine #Data Science  Job
+- `LDA_Job_Search_Data` - This code will analyze and Mine Data Science  Job
 - `LDA_Job_Search_SF` - This code will analyze and Mine ' Software Engineer'  Job
 - 
 ## Contributing
