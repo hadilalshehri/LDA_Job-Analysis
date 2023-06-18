@@ -35,8 +35,9 @@ job mining application by running the `main.py` file. The application will promp
 The project is structured as follows:
 
 - `web_scraping` - This Folder contains code for scraping job postings from linkedIN.
-- 'scrab.ipynp' -  This code can scrabe the jobe posting from linkedIn you need to provide the username, Password and job search link from linkedIn.
-- `scrabweb.ipynp` - This code is same as 'scrab.ipnyp' but it more accurate but it take long time oon processing. It access the job one be one. 
+- `scrab.ipynp` -  This code can scrabe the jobe posting from linkedIn you need to provide the username, Password and job search link from linkedIn.
+- `scrabweb.ipynp` - This code is same as 'scrab.ipnyp' but it more accurate but it take long time oon processing. It access the job one be one.
+- `Data eet` - This Folder contains job posted extracted from web scrabing for two Major Data Science and Software Engineer.
 - `LDA Code` - This Folder contains LDA Job Mining code for two Major.
 - `LDA_Job_Search_Data` - This code will analyze and Mine ' Data Science'  Job
 - `LDA_Job_Search_SF` - This code will analyze and Mine ' Software Engineer'  Job
