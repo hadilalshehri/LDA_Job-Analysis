@@ -1,6 +1,6 @@
 # Job Mining Project in Sauid Arabia
 
-This project aims to analyze and mine job postings from linkedIn Platform and provide insights into the Saudi job market trends and requirements. The application will use web scraping and natural language processing techniques to extract relevant information from job postings, such as job titles, descriptions, company, job Date, and locattion, and analyze them to identify common patterns and trends.
+This project aims to analyze and mine job postings from linkedIn Platform and provide insights into the Saudi job market trends and requirements. The project will use web scraping and data mining techniques to extract relevant information from job postings, such as job titles, descriptions, company, job Date, and locattion, and analyze them to identify common patterns and trends.
 
 ## Getting Started
 
